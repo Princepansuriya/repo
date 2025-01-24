@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello
+=======
+ample File For Demo
+>>>>>>> 7cc8c47 (on LR)
